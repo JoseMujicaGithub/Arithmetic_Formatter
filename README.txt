@@ -1,0 +1,1 @@
+This is a project that takes an array of additions and subtractions on a string format to solve the operations and change the output view to a more natural and conventional one.
