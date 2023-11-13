@@ -1,1 +1,1 @@
-This is a project that takes an array of additions and subtractions on a string format to solve the operations and change the output view to a more natural and conventional one.
+This is the first of five projects on the freeCodeCamp Scientific Computing Whit Python Certification, the project takes an array of additions and subtractions on a lineal format and changes it to give a natural output of the operation. 
